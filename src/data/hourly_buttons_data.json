@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "button": "Temp"
+  },
+  {
+    "id": 2,
+    "button": "Icon"
+  },
+  {
+    "id": 3,
+    "button": "Feels"
+  },
+  {
+    "id": 4,
+    "button": "Chance"
+  },
+  {
+    "id": 5,
+    "button": "Rate"
+  },
+  {
+    "id": 6,
+    "button": "Humidity"
+  },
+  {
+    "id": 7,
+    "button": "Cover"
+  },
+  {
+    "id": 8,
+    "button": "Index"
+  },
+  {
+    "id": 9,
+    "button": "Speed"
+  },
+  {
+    "id": 10,
+    "button": "Direction"
+  },
+  {
+    "id": 11,
+    "button": "Gust"
+  },
+  {
+    "id": 12,
+    "button": "Dew"
+  },
+  {
+    "id": 13,
+    "button": "Pressure"
+  },
+  {
+    "id": 14,
+    "button": "Visibility"
+  },
+  {
+    "id": 15,
+    "button": "Ozone"
+  }
+]
